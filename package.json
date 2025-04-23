@@ -22,5 +22,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dr-cyberx/fallout-late-night-theme.git"
-  }
+  },
+  "icon": "icon.png"
 }
