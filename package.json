@@ -3,7 +3,7 @@
   "displayName": "Fallout late night Theme",
   "description": "A subtle late night dark theme with pastel highlights.",
   "version": "1.0.0",
-  "publisher": "your-publisher-id",
+  "publisher": "drcyberx",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -18,5 +18,9 @@
         "path": "./themes/Fallout mac theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dr-cyberx/fallout-late-night-theme.git"
   }
 }
