@@ -1,0 +1,22 @@
+{
+  "name": "fallout-late-night-theme",
+  "displayName": "Fallout late night Theme",
+  "description": "A subtle late night dark theme with pastel highlights.",
+  "version": "1.0.0",
+  "publisher": "your-publisher-id",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fallout late night Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fallout mac theme-color-theme.json"
+      }
+    ]
+  }
+}
